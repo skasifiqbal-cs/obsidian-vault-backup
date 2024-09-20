@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "14ed0dd79e7692a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c2805daf5f1466e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50cc5ad4e15504b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Explaining Safety Violations in Real-Time Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1006cc73ae5e6a79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb0d47841e133791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Towards Causal Explanations of Property Violations in Discrete Event Systems..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5413ca476167800f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Analysis of timed systems using time-abstracting bisimulations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a8d9321da7b55d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Towards Causal Explanations of Property Violations in Discrete Event Systems..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3839ac75104f1f41",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f472c8ac95441d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b30641094b6cbfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80e30de622165dd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#to-read",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aaa92984b0e5af5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40b56eb75ddcd171",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8364fe2648c81d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6704fad8b0d8e047",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research/Explaining Safety Violations in Real-Time Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbc897de8a06ac59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research/Explaining Safety Violations in Real-Time Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45f03d3d7e458f62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fdc4393e77cc18c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research/Explaining Safety Violations in Real-Time Systems.md"
+              }
+            }
+          },
+          {
+            "id": "a3d54c8be9f4c0cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "8b30641094b6cbfc",
+  "lastOpenFiles": [
+    "Research/Tar Tar A Timed Automata Repair Tool.md",
+    "Research/Explaining Safety Violations in Real-Time Systems.md",
+    "Research/attachments/Pasted image 20240919130149.png",
+    "Research/Towards Causal Explanations of Property Violations in Discrete Event Systems..md",
+    "Research/Modeling and Verification of a Dual Chamber Implantable Pacemaker.md",
+    "Research/attachments/Pasted image 20240918130955.png",
+    "Research/attachments/Pasted image 20240918115706.png",
+    "Research/standard determinization.md",
+    "Research/Non Determinism in Timed Systems.md",
+    "Untitled.md",
+    "Research/observability.md",
+    "Research/Fate and free will in error traces.md",
+    "Research/choice based explanations.md",
+    "Research/Analysis of timed systems using time-abstracting bisimulations.md",
+    "Research",
+    "Research/attachments/Pasted image 20240912130147.png",
+    "Research/attachments/Pasted image 20240912120350.png",
+    "Welcome.md",
+    "Towards Causal Explanations of Property Violations in Discrete Event Systems.md",
+    "Research/attachments/bisimilarity.png",
+    "attachments/Blank diagram(4).png",
+    "Research/attachments/bisim_vs_trace.png",
+    "Research/attachments/Pasted image 20240911121843.png",
+    "Research/attachments",
+    "Research/static program slicing.md",
+    "Aineto.pdf",
+    "bisimulations.canvas",
+    "Pasted image 20240910145228.png"
+  ]
+}
